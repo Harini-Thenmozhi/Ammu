@@ -1,4 +1,4 @@
-n = int(input("Enter the number"))
+n = 5
 if(n>0):
     print("Positive")
 elif(n==0):
